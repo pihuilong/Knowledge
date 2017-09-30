@@ -1,3 +1,3 @@
 # Knowledge
 ***
-###A system of knowledge
+### A system of knowledge
