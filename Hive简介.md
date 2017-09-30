@@ -6,10 +6,10 @@ Hive 是一个基于 Hadoop 文件系统之上的数据仓库架构。它为数�
 # 二、Hive 体系结构
 Hive 其基本组成可以分为：
 
-  -[] 用户接口，包括 CLI, JDBC/ODBC, WebUI
-  -[] 元数据存储，通常是存储在关系数据库如 MySQL, Derby 中
-  -[] 解释器、编译器、优化器、执行器
-  -[] Hadoop, 用 HDFS 进行存储，利用 MapReduce 进行计算
+  -[x] 用户接口，包括 CLI, JDBC/ODBC, WebUI
+  -[x] 元数据存储，通常是存储在关系数据库如 MySQL, Derby 中
+  -[x] 解释器、编译器、优化器、执行器
+  -[x] Hadoop, 用 HDFS 进行存储，利用 MapReduce 进行计算
   
   
  # 三、Hive 与关系数据库的区别
